@@ -12,7 +12,7 @@ begin
     gem.authors = ["Gabe da Silveira"]
 
     gem.add_dependency('nokogiri', '~> 1.3.3')
-    gem.add_dependency('sanitize', '~> 1.1.0')
+    gem.add_dependency('sanitize')
     gem.add_dependency('RedCloth')
 
     gem.add_development_dependency "bacon"
