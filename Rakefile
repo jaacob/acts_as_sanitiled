@@ -11,7 +11,7 @@ begin
     gem.homepage = "http://github.com/dasil003/acts_as_sanitiled"
     gem.authors = ["Gabe da Silveira"]
 
-    gem.add_dependency('nokogiri', '~> 1.3.3')
+    gem.add_dependency('nokogiri')
     gem.add_dependency('sanitize')
     gem.add_dependency('RedCloth')
 
